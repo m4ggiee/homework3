@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.transform{
+    text-transform:inherit;
+    /* text-align: center; */
+    /* width: 500px; */
+  
+    /* text-transform:capitalize ; */
+    /* text-indent: 40px; */
+    /* white-space: pre; */
+   font-weight: 800;
+
+   font-family: 'Passions Conflict', cursive;
+   font-size: 45px;
+}
+
